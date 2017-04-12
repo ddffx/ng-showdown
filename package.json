@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "angular": "^1.3.2",
-    "showdown": "1.x",
+    "showdown": "showdownjs/showdown#50235d6951142cf3d11cf8b80963111e4ae552ea",
     "angular-sanitize": "^1.3.2"
   },
   "devDependencies": {
